@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<organization:Organization xmlns:organization="http://documentation.bonitasoft.com/organization-xml-schema/1.1">
+    <customUserInfoDefinitions/>
+    <users>
+        <user userName="vijay">
+            <password encrypted="true">LcTkpvvquKf4KO+prsfXrQ==</password>
+            <firstName>vijay</firstName>
+            <lastName>kumar</lastName>
+            <enabled>false</enabled>
+            <personalData/>
+            <professionalData/>
+            <customUserInfoValues/>
+            <metaDatas/>
+        </user>
+        <user userName="prodplan">
+            <password encrypted="true">LcTkpvvquKf4KO+prsfXrQ==</password>
+            <firstName>Prod Plan Control</firstName>
+            <lastName></lastName>
+            <title>Mr</title>
+            <jobTitle></jobTitle>
+            <enabled>true</enabled>
+            <personalData/>
+            <professionalData/>
+            <customUserInfoValues/>
+            <metaDatas/>
+        </user>
+        <user userName="chemist">
+            <password encrypted="true">LcTkpvvquKf4KO+prsfXrQ==</password>
+            <firstName>Chemist</firstName>
+            <lastName></lastName>
+            <title>Mr</title>
+            <jobTitle></jobTitle>
+            <enabled>true</enabled>
+            <personalData/>
+            <professionalData/>
+            <customUserInfoValues/>
+            <metaDatas/>
+        </user>
+        <user userName="qahead">
+            <password encrypted="true">LcTkpvvquKf4KO+prsfXrQ==</password>
+            <firstName>QA Head</firstName>
+            <lastName></lastName>
+            <title>Mr</title>
+            <jobTitle></jobTitle>
+            <enabled>true</enabled>
+            <personalData/>
+            <professionalData/>
+            <customUserInfoValues/>
+            <metaDatas/>
+        </user>
+        <user userName="operator">
+            <password encrypted="true">LcTkpvvquKf4KO+prsfXrQ==</password>
+            <firstName>Operator</firstName>
+            <lastName></lastName>
+            <title>Mr</title>
+            <jobTitle>Dispensing Operator</jobTitle>
+            <enabled>false</enabled>
+            <personalData/>
+            <professionalData/>
+            <customUserInfoValues/>
+            <metaDatas/>
+        </user>
+        <user userName="qasupervisor">
+            <password encrypted="true">LcTkpvvquKf4KO+prsfXrQ==</password>
+            <firstName>QA Supervisor</firstName>
+            <lastName></lastName>
+            <title>Mr</title>
+            <jobTitle>Quality Assurance Supervisor</jobTitle>
+            <enabled>false</enabled>
+            <personalData/>
+            <professionalData/>
+            <customUserInfoValues/>
+            <metaDatas/>
+        </user>
+        <user userName="prodsupervisor">
+            <password encrypted="true">LcTkpvvquKf4KO+prsfXrQ==</password>
+            <firstName>Production Supervisor</firstName>
+            <title>Mr</title>
+            <jobTitle>Production Supervisor</jobTitle>
+            <enabled>false</enabled>
+            <personalData/>
+            <professionalData/>
+            <customUserInfoValues/>
+            <metaDatas/>
+        </user>
+        <user userName="dispoptr">
+            <password encrypted="true">LcTkpvvquKf4KO+prsfXrQ==</password>
+            <firstName>Dispensing Operator</firstName>
+            <lastName></lastName>
+            <title>Mr</title>
+            <jobTitle></jobTitle>
+            <enabled>true</enabled>
+            <personalData/>
+            <professionalData/>
+            <customUserInfoValues/>
+            <metaDatas/>
+        </user>
+        <user userName="prodhead">
+            <password encrypted="true">LcTkpvvquKf4KO+prsfXrQ==</password>
+            <firstName>Production Head</firstName>
+            <title>Mr</title>
+            <jobTitle></jobTitle>
+            <enabled>true</enabled>
+            <personalData/>
+            <professionalData/>
+            <customUserInfoValues/>
+            <metaDatas/>
+        </user>
+        <user userName="qamgr">
+            <password encrypted="true">LcTkpvvquKf4KO+prsfXrQ==</password>
+            <firstName>QA Manager</firstName>
+            <title>Mr</title>
+            <jobTitle>Quality Assurance Manager</jobTitle>
+            <enabled>false</enabled>
+            <personalData/>
+            <professionalData/>
+            <customUserInfoValues/>
+            <metaDatas/>
+        </user>
+        <user userName="ipqa">
+            <password encrypted="true">LcTkpvvquKf4KO+prsfXrQ==</password>
+            <firstName>In Process QA</firstName>
+            <title>Mr</title>
+            <jobTitle></jobTitle>
+            <enabled>true</enabled>
+            <personalData/>
+            <professionalData/>
+            <customUserInfoValues/>
+            <metaDatas/>
+        </user>
+        <user userName="tsadmin">
+            <password encrypted="true">ULIh5mH0yeRMLb1uYON31A==</password>
+            <firstName>Tetrasoft</firstName>
+            <lastName>Admin</lastName>
+            <title></title>
+            <jobTitle></jobTitle>
+            <enabled>true</enabled>
+            <personalData/>
+            <professionalData/>
+            <customUserInfoValues/>
+            <metaDatas/>
+        </user>
+        <user userName="dispsupvr">
+            <password encrypted="true">LcTkpvvquKf4KO+prsfXrQ==</password>
+            <firstName>Dispensing Supervisor</firstName>
+            <lastName></lastName>
+            <title>Mr</title>
+            <jobTitle>Dispensing Supervisor</jobTitle>
+            <enabled>false</enabled>
+            <personalData/>
+            <professionalData/>
+            <customUserInfoValues/>
+            <metaDatas/>
+        </user>
+        <user userName="prodmgr">
+            <password encrypted="true">LcTkpvvquKf4KO+prsfXrQ==</password>
+            <firstName>Production Manager</firstName>
+            <title>Mr</title>
+            <jobTitle>Production Manager</jobTitle>
+            <enabled>false</enabled>
+            <personalData/>
+            <professionalData/>
+            <customUserInfoValues/>
+            <metaDatas/>
+        </user>
+        <user userName="qasupvr">
+            <password encrypted="true">LcTkpvvquKf4KO+prsfXrQ==</password>
+            <firstName>QA Supervisor</firstName>
+            <lastName></lastName>
+            <title>Mr</title>
+            <jobTitle></jobTitle>
+            <enabled>false</enabled>
+            <personalData/>
+            <professionalData/>
+            <customUserInfoValues/>
+            <metaDatas/>
+        </user>
+    </users>
+    <roles>
+        <role name="Chemist">
+            <displayName>Chemist</displayName>
+        </role>
+        <role name="QAHead">
+            <displayName>QAHead</displayName>
+        </role>
+        <role name="DispensingSupervisor">
+            <displayName>DispensingSupervisor</displayName>
+        </role>
+        <role name="ProdManager">
+            <displayName>ProdManager</displayName>
+        </role>
+        <role name="ProdPlanControl">
+            <displayName>ProdPlanControl</displayName>
+        </role>
+        <role name="IPQA">
+            <displayName>IPQA</displayName>
+        </role>
+    </roles>
+    <groups>
+        <group name="ProductionFloorActors">
+            <displayName>ProductionFloorActors</displayName>
+        </group>
+        <group name="ReceipeActors">
+            <displayName>ReceipeActors</displayName>
+        </group>
+    </groups>
+    <memberships>
+        <membership>
+            <userName>prodplan</userName>
+            <roleName>ProdPlanControl</roleName>
+            <groupName>ProductionFloorActors</groupName>
+            <assignedDate>0</assignedDate>
+        </membership>
+        <membership>
+            <userName>chemist</userName>
+            <roleName>Chemist</roleName>
+            <groupName>ReceipeActors</groupName>
+            <assignedDate>0</assignedDate>
+        </membership>
+        <membership>
+            <userName>qahead</userName>
+            <roleName>QAHead</roleName>
+            <groupName>ProductionFloorActors</groupName>
+            <assignedDate>0</assignedDate>
+        </membership>
+        <membership>
+            <userName>dispoptr</userName>
+            <roleName>DispensingSupervisor</roleName>
+            <groupName>ProductionFloorActors</groupName>
+            <assignedDate>0</assignedDate>
+        </membership>
+        <membership>
+            <userName>prodhead</userName>
+            <roleName>ProdManager</roleName>
+            <groupName>ProductionFloorActors</groupName>
+            <assignedDate>0</assignedDate>
+        </membership>
+        <membership>
+            <userName>qahead</userName>
+            <roleName>QAHead</roleName>
+            <groupName>ReceipeActors</groupName>
+            <assignedDate>0</assignedDate>
+        </membership>
+        <membership>
+            <userName>ipqa</userName>
+            <roleName>IPQA</roleName>
+            <groupName>ProductionFloorActors</groupName>
+            <assignedDate>0</assignedDate>
+        </membership>
+        <membership>
+            <userName>ipqa</userName>
+            <roleName>IPQA</roleName>
+            <groupName>ReceipeActors</groupName>
+            <assignedDate>0</assignedDate>
+        </membership>
+    </memberships>
+</organization:Organization>
